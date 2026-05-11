@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-Video2Document 是一个 Rust 命令行工具，用来扫描本地视频目录，调用 Kimi 分析视频片段，并为每个视频生成一份 Markdown 学习文档，同时在输出目录生成索引文件，方便浏览。
+Video2Document 是一个命令行工具，批量的将本地存储的视频转写为相关文档(知识库)，调用 Kimi 多模态分析视频，为每个视频生成一份 Markdown 学习文档。
 
 ## 项目功能
 

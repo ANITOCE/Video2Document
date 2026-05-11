@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-Video2Document is a Rust CLI that scans a local video library, sends video segments to Kimi for analysis, and generates one Markdown study note per video plus directory indexes for navigation.
+Video2Document is a command-line tool that batch transcribes locally stored videos into related documents (knowledge base). It invokes Kimi's multimodal analysis to generate a Markdown learning document for each video.
 
 ## What It Does
 
